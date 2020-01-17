@@ -4,5 +4,10 @@
 
 
 body {
-    background-color: aqua;
+background-image: url(../img/nature.jpg);
 }
+
+.btn {
+    color: blue;
+}
+

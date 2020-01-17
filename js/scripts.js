@@ -6,6 +6,8 @@ $(document).ready(function() {
         var side4 = parseInt($("select#add4").val());
         var side5 = parseInt($("select#add5").val());
 
+        var addUp = ()
+
         if ( side1 === side2 && side2 === side3 && side4 === side5)  {
             $("#csharp").show();
         }
