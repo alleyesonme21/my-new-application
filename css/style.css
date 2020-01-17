@@ -11,3 +11,13 @@ background-image: url(../img/nature.jpg);
     color: blue;
 }
 
+.well h1 {
+color: green;
+text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
