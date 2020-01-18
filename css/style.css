@@ -24,10 +24,18 @@ h1 {
 #csharp h1 {
     background-color: blanchedalmond; 
     color: blueviolet;
+}
 
+#python h1 {
+background-color: blanchedalmond;
+color: blueviolet;
 }
 
 p {
    float: right; 
 }
 
+
+img {
+    justify-items: center;
+}
