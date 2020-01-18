@@ -3,7 +3,7 @@
 }
 
 
-body {
+form {
 background-image: url(../img/nature.jpg);
 }
 
@@ -19,5 +19,15 @@ text-align: center;
 h1 {
     text-align: center;
     color: red;
+}
+
+#csharp h1 {
+    background-color: blanchedalmond; 
+    color: blueviolet;
+
+}
+
+p {
+   float: right; 
 }
 
